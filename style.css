@@ -1,8 +1,13 @@
-.wrapper {
-    max-width: 600px;
+.bigboi {
+    width: 600px;
 }
 
+.section4 {
+    width: 600px;
+}
+
+
 p {
-    word-break: break-all;
+    word-break: normal;
     white-space: normal;
 }
